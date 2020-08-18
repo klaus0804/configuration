@@ -10,5 +10,5 @@ spring:
     config:
       server:
         git:
-          uri: "https://github.com/config/Configuration"
+          uri: "https://github.com/klaus0804/sHopul"
 
